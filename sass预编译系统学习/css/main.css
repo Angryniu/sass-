@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .box {
   background-color: #ae0f0f;
 }
@@ -33,4 +34,8 @@
 .item5 {
   border-style: solid;
   border-color: #1ba21d;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*
+    我是可以在css文件中看见的注释
+*//*# sourceMappingURL=main.css.map */

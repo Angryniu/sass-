@@ -62,6 +62,14 @@ $item3-color:yellow !default;
     @include item5(#1ba21d,solid)
 }
 
+//11、注释可被编译
+/*
+    我是可以在css文件中看见的注释
+*/    
+
+//12、继承 @extend
+
+
     
     
   
